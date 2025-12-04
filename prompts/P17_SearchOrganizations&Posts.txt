@@ -1,7 +1,0 @@
-Chapter: Les composants graphiques complexes
-Create activity_search.xml:
-
-SearchView (hint: "Search by name, email, location...")
-Spinner: filter by rating (All, 5 stars, 4+ stars) or category
-RecyclerView for results
-Use JPA @Query with LIKE for dynamic search

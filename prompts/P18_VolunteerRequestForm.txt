@@ -1,8 +1,0 @@
-Chapter: Les composants graphiques complexes
-Volunteer → "New Request" button
-Form:
-
-title, description, needs (MultiAutoCompleteTextView)
-priority, location
-"Send To" → MultiAutoCompleteTextView (search organization names from DB)
-On send: save VolunteerRequest, show Toast

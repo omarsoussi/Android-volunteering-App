@@ -1,9 +1,0 @@
-Chapter: Les menus, Les composants graphiques complexes
-Create activity_create_post.xml:
-
-Spinner: select category
-Spinner: select priority
-EditText: title, description, location
-DatePicker + TimePicker for start date
-MultiAutoCompleteTextView: enter needs (comma-separated)
-Button: "Post" → save via JPA, show Toast "Posted successfully!"

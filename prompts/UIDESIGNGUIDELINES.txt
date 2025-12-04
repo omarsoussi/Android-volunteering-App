@@ -1,7 +1,0 @@
-Use ConstraintLayout for complex layouts
-All cards: 12dp corner radius, 4dp elevation
-Buttons: orange background, white bold text, 16dp padding
-Text: Roboto Medium for titles, sans-serif for body
-Icons: Material Icons (add via drawable)
-Spacing: 16dp standard padding/margin
-Background: #FAFAFA, cards: white

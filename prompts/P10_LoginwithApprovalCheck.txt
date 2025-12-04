@@ -1,7 +1,0 @@
-Chapter: Gestion des services
-In LoginActivity.java:
-
-Get email/password
-Query DB with JPA: find user by email
-If Organization and isApproved == false → show Dialog:"Your organization is under review. Please wait for admin approval."
-Else → save user ID in SharedPreferences, go to DashboardActivity
