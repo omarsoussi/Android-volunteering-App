@@ -1,0 +1,16 @@
+GLOBAL RULES FOR ALL PROMPTS
+
+Use Java only, no Kotlin.
+All UI in XML, use ConstraintLayout as root when possible.
+Database: PostgreSQL with JPA + Hibernate, hibernate.hbm2ddl.auto=update → tables created on first run.
+Networking: Volley (from Gestion des services).
+Navigation: Intents (explicit + implicit).
+Feedback: Toast, Dialog, Snackbar.
+Colors:
+Primary: #FF5722 (deep orange)
+Accent: #FFC107 (amber)
+Background: #FAFAFA
+
+Use Material Design: CardView, elevation, rounded corners (12dp), padding 16dp.
+All entities extend BaseEntity (id, createdAt, updatedAt, isDeleted).
+No Firebase, no Room, no Kotlin, no advanced libraries.

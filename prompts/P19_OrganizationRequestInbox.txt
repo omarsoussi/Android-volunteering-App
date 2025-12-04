@@ -1,0 +1,9 @@
+Chapter: Les composants graphiques complexes
+In Org Dashboard → "Requests" tab
+
+RecyclerView showing pending requests
+Filter buttons: "Recent", "High Priority"
+Click request → open Dialog:
+Show details
+Buttons: "Approve", "Reject"
+If Approve → auto-create Post from request

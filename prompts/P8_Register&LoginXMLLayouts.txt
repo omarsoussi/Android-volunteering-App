@@ -1,0 +1,12 @@
+Chapter: Les composants graphiques simples
+Create activity_register.xml:
+
+Root: ConstraintLayout
+Logo ImageView at top
+RadioGroup: Volunteer / Organization
+EditText: name, surname, email, phone, password
+CheckBox group: interests (Events, Aid, Education, etc.)
+Button: "Register" (orange, white text, 16dp radius)
+TextView: "Already have account? Login" → clickable
+Use ScrollView if needed.
+Same structure for activity_login.xml (email, password, login button).

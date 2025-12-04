@@ -1,0 +1,10 @@
+Chapter: L’objet Intent, Gestion des événements
+In RegisterActivity.java:
+
+Get all input fields
+Validate: email format, phone 8 digits, password ≥6 chars
+Hash password with Base64
+Save to DB using JPA (persist)
+If Organization → isApproved = false
+Show Toast: "Registered! Awaiting approval" (Org) or "Success!" (Volunteer)
+Go to LoginActivity via Intent

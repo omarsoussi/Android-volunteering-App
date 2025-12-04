@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "611717041755",
+    "firebase_url": "https://tounesna-8021d-default-rtdb.firebaseio.com",
+    "project_id": "tounesna-8021d",
+    "storage_bucket": "tounesna-8021d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611717041755:android:28b335c808627b593bf97e",
+        "android_client_info": {
+          "package_name": "com.example.tounesna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEMO_KEY_REPLACE_THIS"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Database Debug Console"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:paddingBottom="16dp" />
+
+        <Button
+            android:id="@+id/btnRefreshStats"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Refresh Statistics"
+            android:layout_marginBottom="8dp" />
+
+        <Button
+            android:id="@+id/btnExportDatabase"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Export Database"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/tvDatabaseStats"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="monospace"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:background="#F5F5F5"
+            android:padding="12dp" />
+
+    </LinearLayout>
+</ScrollView>

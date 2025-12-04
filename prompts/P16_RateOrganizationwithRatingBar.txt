@@ -1,0 +1,13 @@
+Chapter: Les composants graphiques simples
+In PostDetailActivity:
+
+Show RatingBar (5 stars, step size 1)
+On rating change:
+Open Dialog with:
+EditText for comment
+CheckBox: "Submit anonymously"
+"Submit" button
+
+Save Rating entity
+Update organization average rating
+Show Toast: "Thank you for your feedback!"

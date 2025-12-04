@@ -1,0 +1,26 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": true,
+    
+    "volunteers": {
+      ".indexOn": ["email", "id", "deleted"]
+    },
+    
+    "organizations": {
+      ".indexOn": ["email", "id", "deleted", "approved", "rating"]
+    },
+    
+    "posts": {
+      ".indexOn": ["organizationId", "id", "createdAt", "deleted", "category"]
+    },
+    
+    "ratings": {
+      ".indexOn": ["volunteerId", "organizationId", "id", "deleted"]
+    },
+    
+    "volunteer_requests": {
+      ".indexOn": ["volunteerId", "id", "deleted", "status"]
+    }
+  }
+}

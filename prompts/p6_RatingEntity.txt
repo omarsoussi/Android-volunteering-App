@@ -1,0 +1,11 @@
+Chapter: Les composants graphiques simples (RatingBar)
+Create Rating.java (extends BaseEntity).
+Fields:
+
+stars (int, 1–5)
+comment (String)
+anonymous (boolean, default false)
+rater → @ManyToOne Volunteer
+ratedOrg → @ManyToOne Organization
+relatedPost → @ManyToOne Post
+Map to table: ratings.

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- Primary Theme Colors (Purple/Pink from reference) -->
+    <color name="purple">#7C3AED</color>
+    <color name="primary">#7C3AED</color>
+    <color name="primary_dark">#5B21B6</color>
+    <color name="primary_light">#A78BFA</color>
+    
+    <color name="secondary">#EC4899</color>
+    <color name="secondary_dark">#DB2777</color>
+    <color name="secondary_light">#F9A8D4</color>
+    
+    <color name="accent">#F59E0B</color>
+    <color name="accent_light">#FCD34D</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#F8F9FA</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F3F4F6</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_tertiary">#9CA3AF</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_purple_start">#7C3AED</color>
+    <color name="gradient_purple_end">#EC4899</color>
+    <color name="gradient_pink_start">#EC4899</color>
+    <color name="gradient_pink_end">#F472B6</color>
+    <color name="gradient_orange_start">#F59E0B</color>
+    <color name="gradient_orange_end">#FB923C</color>
+    <color name="gradient_blue_start">#3B82F6</color>
+    <color name="gradient_blue_end">#60A5FA</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#10B981</color>
+    <color name="error">#EF4444</color>
+    <color name="warning">#F59E0B</color>
+    <color name="info">#3B82F6</color>
+    
+    <!-- Priority Colors -->
+    <color name="priority_very_high">#DC2626</color>
+    <color name="priority_high">#F59E0B</color>
+    <color name="priority_medium">#3B82F6</color>
+    <color name="priority_low">#10B981</color>
+    
+    <!-- Category Colors -->
+    <color name="category_health">#EF4444</color>
+    <color name="category_education">#3B82F6</color>
+    <color name="category_environment">#10B981</color>
+    <color name="category_aid">#F59E0B</color>
+    <color name="category_events">#8B5CF6</color>
+    
+    <!-- Shadow & Overlay -->
+    <color name="shadow">#1A000000</color>
+    <color name="overlay">#80000000</color>
+    <color name="divider">#E5E7EB</color>
+    
+    <!-- Legacy (deprecated but keeping for compatibility) -->
+    <color name="orange">#F59E0B</color>
+</resources>
+

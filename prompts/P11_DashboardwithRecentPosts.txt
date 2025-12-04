@@ -1,0 +1,8 @@
+Chapter: Les composants graphiques complexes
+Create activity_dashboard.xml:
+
+Toolbar: title "Volunteering Hub", orange background
+RecyclerView (id: rv_posts)
+FloatingActionButton → only visible for Organization → opens CreatePostActivity
+BottomNavigationView: Home, Search, Requests, Profile
+Fetch latest 20 posts using JPA query: ORDER BY createdAt DESC

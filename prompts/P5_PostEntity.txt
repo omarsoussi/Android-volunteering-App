@@ -1,0 +1,12 @@
+Chapter: Persistence des données
+Create Post.java (extends BaseEntity).
+Fields:
+
+title, description, imageUrl, location
+startDate, endDate (LocalDateTime)
+volunteersNeeded (int)
+category → enum: EVENT, AID, EDUCATION, ENVIRONMENT, HEALTH
+priority → enum: LOW, MEDIUM, HIGH, VERY_HIGH
+needs → List<String> (e.g., "water", "clothes")
+organization → @ManyToOne relationship
+Map to table: posts.

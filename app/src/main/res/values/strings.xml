@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">tounesna</string>
+    
+    <!-- Common -->
+    <string name="app_logo">App Logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone Number</string>
+    <string name="volunteer">Volunteer</string>
+    <string name="organization">Organization</string>
+    
+    <!-- Register Screen -->
+    <string name="create_account">Create Account</string>
+    <string name="register_as">Register as:</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="select_profile_picture">Select Profile Picture</string>
+    <string name="interests">Interests (Select all that apply):</string>
+    <string name="events">Events</string>
+    <string name="aid">Aid</string>
+    <string name="education">Education</string>
+    <string name="environment">Environment</string>
+    <string name="health">Health</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    
+    <!-- Login Screen -->
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="login_as">Login as:</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    
+    <!-- Dashboard -->
+    <string name="volunteering_hub">Volunteering Hub</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="requests">Requests</string>
+    <string name="profile">Profile</string>
+    <string name="create_post">Create Post</string>
+    <string name="no_posts">No Posts</string>
+    <string name="no_posts_available">No posts available yet</string>
+    <string name="post_image">Post Image</string>
+    <string name="location">Location</string>
+    <string name="high">HIGH</string>
+    <string name="medium">MEDIUM</string>
+    <string name="low">LOW</string>
+    
+    <!-- Create Post -->
+    <string name="create_new_post">Create New Post</string>
+    <string name="category">Category</string>
+    <string name="priority">Priority</string>
+    <string name="post_title">Post Title</string>
+    <string name="description">Description</string>
+    <string name="volunteers_needed">Volunteers Needed</string>
+    <string name="start_date_time">Start Date &amp; Time</string>
+    <string name="end_date_time">End Date &amp; Time (Optional)</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="no_date_selected">No date selected</string>
+    <string name="needs_comma_separated">Needs (comma-separated)</string>
+    <string name="needs_hint">e.g. Water, Food, Volunteers</string>
+    <string name="post">Post</string>
+    
+    <!-- Post Detail -->
+    <string name="date_time">Date &amp; Time</string>
+    <string name="needs">Needs</string>
+    <string name="donate">Donate</string>
+    <string name="help_via_sms">Help via SMS</string>
+    
+    <!-- Search -->
+    <string name="search_hint">Search by name, email, location...</string>
+    <string name="no_results">No results found</string>
+    <string name="all_ratings">All Ratings</string>
+    <string name="all_categories">All Categories</string>
+</resources>

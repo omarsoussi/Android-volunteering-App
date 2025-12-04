@@ -1,0 +1,13 @@
+Chapter: Les composants graphiques complexes
+In PostAdapter.java:
+
+Each item in CardView
+Show: post title, organization name, location
+Priority badge (Chip):
+VERY_HIGH → red
+HIGH → orange
+MEDIUM → yellow
+LOW → green
+
+Show organization rating using RatingBar (readonly)
+Click item → open PostDetailActivity

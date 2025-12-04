@@ -1,0 +1,9 @@
+Chapter: L’objet Intent
+In PostDetailActivity:
+
+Add button "Help via SMS"
+On click:
+Create implicit Intent (ACTION_SENDTO)
+smsto:organization_phone
+Body: "Hi, I'm [Volunteer Name]. I want to help with: [items]"
+Open SMS app
